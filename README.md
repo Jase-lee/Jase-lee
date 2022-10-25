@@ -1,7 +1,7 @@
 - ⭐ Hi, I’m @Jase-lee
 - ⚡ I’m interested in Python3
 
-![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jase-lee)
+
 ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jase-lee&show_icons=true&theme=radical)
 
 <!---
